@@ -19,6 +19,8 @@ namespace WebApi
 {
     public class Startup
     {
+        //Credit to Les Jackson for the tutorial
+        //https://www.youtube.com/watch?v=fmvcAzHpsk8
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
